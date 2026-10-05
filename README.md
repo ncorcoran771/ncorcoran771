@@ -1,4 +1,4 @@
-# Hi, I'm Nick Corcoran
+# Hi, I'm Nick
 
 ### Application Developer at Process Integration Inc.
 
